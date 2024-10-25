@@ -12,3 +12,5 @@ this repository is used to teach forking &amp; pull requests.
 - Seth Erickson
 - Jose Niño Muriel
 - Sanjay Poudel
+- Kinji Leslie
+- David Wilson
