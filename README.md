@@ -14,3 +14,6 @@ this repository is used to teach forking &amp; pull requests.
 
 ## Yeganeh
 Yeganeh forked the file
+- Kinji Leslie
+- David Wilson
+- Scandinavia Pepperoncino
