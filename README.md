@@ -15,4 +15,5 @@ this repository is used to teach forking &amp; pull requests.
 - Kinji Leslie
 - David Wilson
 - Scandinavia Pepperoncino
-- 
+- DREAM Lab Chaos Agent
+- Window Pikachu
