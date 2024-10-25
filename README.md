@@ -14,3 +14,5 @@ this repository is used to teach forking &amp; pull requests.
 - Sanjay Poudel
 - Kinji Leslie
 - David Wilson
+- Scandinavia Pepperoncino
+- 
